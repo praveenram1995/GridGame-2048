@@ -1,0 +1,99 @@
+.container {
+    height: 500px;
+    width: 500px;
+    margin: auto;
+    padding-top: 175px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr 1fr;
+}
+
+.cell {
+    color: black;
+    font-size: 60px;
+    text-align: center;
+    padding: 30px;
+  }
+  .cell-1 {
+    background: deepskyblue;
+    border-style: double;
+    border-color: black;
+  }
+  .cell-2 {
+    background: orangered;
+    border-style: double;
+    border-color: black;
+  }
+  .cell-3 {
+    background: royalblue;
+    border-style: double;
+    border-color: black;
+  }
+  .cell-4 {
+    background: gold;
+    border-style: double;
+    border-color: black;
+  }
+  .cell-5 {
+    background: blueviolet;
+    border-style: double;
+    border-color: black;
+  }
+  .cell-6 {
+    background: limegreen;
+    border-style: double;
+    border-color: black;
+  }
+  .cell-7 {
+    background: coral;
+    border-style: double;
+    border-color: black;
+  }
+  .cell-8 {
+    background: lightseagreen;
+    border-style: double;
+    border-color: black;
+  }
+  .cell-9 {
+    background: green;
+    border-style: double;
+    border-color: black;
+  }
+  .cell-10 {
+    background: yellowgreen;
+    border-style: double;
+    border-color: black;
+  }
+  .cell-11 {
+    background: orangered;
+    border-style: double;
+    border-color: black;
+  }
+  .cell-12 {
+    background: grey;
+    border-style: double;
+    border-color: black;
+  }
+  .cell-13 {
+    background: peachpuff;
+    border-style: double;
+    border-color: black;
+  }
+  .cell-14 {
+    background: paleturquoise;
+    border-style: double;
+    border-color: black;
+  }
+  .cell-15 {
+    background: burlywood;  
+    border-style: double;
+    border-color: black;
+  }
+  .cell-16 {
+    background: orange;
+    border-style: double;
+    border-color: black;
+  }
+
+
+  
